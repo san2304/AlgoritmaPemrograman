@@ -67,8 +67,4 @@ print ("                   Kembalian     : Rp",f_sosok)
 print ("")
 print ("")
 print ("")
-<<<<<<< HEAD
 print ("             Suwon Wes Belonjo Bolo' ")
-=======
-print ("             Suwon Wes Belonjo Bolo' ")
->>>>>>> 851cd3ce2ce04f31ad4827580dc607ced43d69a3

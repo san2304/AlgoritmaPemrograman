@@ -55,7 +55,7 @@ my_list = [1, 2, 3, 4, 5]
 
 # Forward
 print("------------------------------")
-print("Sann")
+print("forward")
 print("------------------------------")
 print(my_list[1])
 print(my_list[3:])
@@ -65,7 +65,7 @@ print(my_list[1:3])
 
 # Backward
 print("------------------------------")
-print("Sannn")
+print("backward")
 print("------------------------------")
 print(my_list[-1])
 print(my_list[-3:])
