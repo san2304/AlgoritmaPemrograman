@@ -1,0 +1,10 @@
+Meja
+Mobil
+Kursi
+Pepaya
+Melon
+Semangka
+Anggur
+Kelengkeng
+Laptop
+Smartphone& C:/Users/HP/anaconda3/python.exe "d:/UNISS Khoirul/semester 1-2/AlgoPemrograman/latihan7_looping.py"
